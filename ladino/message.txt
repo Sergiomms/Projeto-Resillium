@@ -1,0 +1,58 @@
+fase 1
+-Sou um ladino que uso minhas habilidades para fazer pequenos furtos e trabalhos para o Rei, atualmente estou morando em uma cabana, 
+em uma vila pequena para qual acabei de me mudar, para fugir por um tempo dos guardas da corte ao qual tinha saqueado seus tesouros, não conheço ninguém desta vila.
+
+Um dia ao acordar por volta das 7h da manhã, o ladino percebeu que estava com muito calor e algo estava fora do normal.
+Ao abrir a janela, o céu estava vermelho e pequenas nuvens de fumaça estavam saindo das colinas, milhares delas, indo em direção ao céu.
+
+Depois de uns minutos observando aquele céu vermelho e as pequenas nuvens, tudo parecia ter voltado ao normal e então decidiu sair de casa.
+Ao abrir a porta, se deparou com um senhor de costas olhando para baixo:
+Continuação..
+
+fase1 par2
+
+	Diga "olá, posso ajudar em alguma coisa?" -
+O senhor vira para o ladino com os olhos brancos, fazendo um susurro de dor, ele vem em sua direção mostrando os dentes!
+Ele parece querer atacá-lo, então você dá 3 passos para trás e encontra em cima da mesa uma faca.
+
+	Encoste no rapaz para tirar satisfação -- Game Over!
+Ao encostar no ombro do senhor, ele vira rápidamente para trás e consegue agarrar seu braço.
+Ele olha diretamente para você e consegue mordê-lo!
+Sua visão começa a falhar e percebe que está desmaiando, não sabe se é pela dor ou algo o contaminou.
+
+Tentar novamente?
+
+fase 2
+	
+	Pegue a faca e use suas habilidades de ladino para ir para cima do senhor-
+Ao ir para cima do senhor, você consegue derrubá-lo, acertando com a faca o peito dele.
+-Desculpe, senhor, você veio para cima de mim!
+Porém o senhor começa a levantar e voltar a ficar de pé, como se nada tivesse acontecido.
+Você então decide fugir pela porta, conseguindo desviar de uma senhora que tentou lhe agarrar ao lado da janela.
+Ao fugir da sua casa, você avista um cavalo parado, porém assustado, haviam 4 pessoas tentando agarrá-lo
+Continuação..
+
+	Corra para a janela, e pule por ela para tentar escapar -- Game Over
+Ao pular a janela, você dá de cara com uma senhora com os olhos brancos que estava na frente da janela.
+A senhora consegue agarrar seu braço e morder com toda a força sua mão.
+A vista começa a escurecer, você sente muita dor e percebe que está desmaiando
+Tentar novamente?
+
+
+fase 3 final:
+	1- Esqueça o cava-lo e tente correr para fora da vila. -- Game Over
+Ao correr, os zumbis lhe avistam e vão atrás de você.
+Quando você olha para trás, e volta a olhar para a frente, 2 pessoas te agarram e começam a morder você.
+Eles começam a morder toda as partes do seu corpo, você começa a sentir que está perdendo a consciência.
+Tentar novamente?
+
+
+	2- Corra até o cavalo, e tente pega-lo. 
+
+Ao correr até o cavalo, você pula em um feno e consegue montá-lo.
+Você dá um berro para que ele corra, e vocês dois conseguem desviar das 4 pessoas que estavam tentando pegá-lo.
+Todos estavam de olhos brancos e fazendo barulhos de dor.
+Você consegue sair daquela vila o mais rápido possível, deixando tudo para trás.
+Mesmo se afastando da vila, você escuta vários gritos, e ao olhar para trás, consegue avistar o mesmo senhor em quem você enfiou a faca, mordendo o braço de um homem que aparentava ter uns 20 anos.
+O que será que está acontecendo?
+Continuação..? Até o momento não há, obrigado por jogar até aqui.

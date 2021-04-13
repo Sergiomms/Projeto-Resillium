@@ -1,0 +1,163 @@
+pagina introdução
+
+Descrição:
+
+Ajude o Ferreiro a salvar a rainha Taís Softus do terrível alquimista Izoton. 
+Com suas habilidades de forja o ferreiro conseguirá criar as mais diversas armas 
+para se proteger e defender seus aliados.
+
+Página 01:
+
+Digite abaixo o nome do seu personagem:
+
+INTRODUÇÃO
+
+Numa hera onde a vida era pacifica, calma e tranquila, havia um
+vilarejo conhecido por todos como Resillium, lá os moradores eram alegres e q
+ueriam espalhar a cultura dos bons modos e trabalhos em equipe para todos, graças 
+ao governo de sua Rainha Taís Softus que com toda calma do mundo ensinava ao seu 
+povo os místicos ensinamentos de seus antepassados, os Softus-Skillus.
+
+Tudo ia bem e tranquilo, como sempre, porem o povo de Resllium não fazia ideia 
+que sua paz acabaria em breve. O temivel alquimista, conhecido por todos como 
+velho Izoton estava preparando algo em sua masmorra que mudaria a vida do povo 
+de Resillium para sempre.
+
+Ao acordar pela manhã e olhar pela janela ${nome} viu que o céu estava vermelho 
+e pequenas nuvens de fumaça estavam saindo da colinas, milhares delas, indo em 
+direção ao céu.
+
+Depois de uns minutos observando aquele céu vermelho e as pequenas nuvens, 
+tudo parecia ter voltado ao normal e então decidiu sair de casa. Ao abrir a 
+porta, se deparou com um senhor de costas olhando para baixo: 
+
+Página 02:
+
+'Digite 1 para dizer: "olá, posso ajudar em alguma coisa?"\n
+
+Digite 2 para encostar no Sr. e virá-lo'
+
+1 -  PARTE 01
+
+O senhor vira para você com os olhos brancos, fazendo um susurro de dor, 
+ele vem em sua direção mostrando os dentes! Ele parece querer atacá-lo, então você 
+dá 3 passos para trás e encontra em cima da mesa seu martelo.
+
+2 - Game over
+
+Ao encostar no ombro do senhor, ele se vira rápidamente para trás e consegue agarrar 
+seu braço. Ele olha diretamente para você e consegue mordê-lo! Sua visão começa a falhar 
+e você percebe que está desmaiando, sem saber se é pela dor ou algo o contaminou.
+
+Página 03:
+
+Digite 1 para: Pegar seu martelo e atacar o senhor
+
+Digite 2 para: Usar o martelo para tentar afastar o senhor e fugir
+
+1 - PARTE 02
+
+Com sua força extrema de ferreiro, você acerta um golpe na cabeça do senhor o matando na hora.
+
+Ao olhar em volta, percebe que todo vilarejo de Resillium está um verdadeiro caos, casas pegando fogo,
+pessoas correndo desesperadas, e pessoas com uma aparencia estranha, cheias de sangue em suas bocas,
+algumas até sem membros do corpo e mesmo assim andando por todo lado, um grupo delas estava agachado 
+chão, em volta de um corpo caído e aparentemente comendo aquele corpo, abrindo sua barriga, retirando
+as visceras e colocando diretamente na boca.
+
+Sem entender porque aquelas pessoas aparentemente machucadas e cheias de sangue estavam comendo outras
+pessoas, o que você fará a seguir?
+
+2 - Game over
+
+Ao tentar empurrar o senhor para trás, você se preocupa em tentar não machucá-lo, abaixando sua guarda
+dando a oportunidade para ele agarrar seu braço e mordê-lo, arrancando um pedaço sigficante de seu membro.
+Desesperado você perde o controle e o senhor acaba te derrubando no chão, arrancando mais pedaços de seu
+corpo com a boca, fazendo com que você morra.
+
+
+Página 04:
+
+Digite 1 para: Você voltar para sua casa, trancar todas as entradas, se esconder em seu quarto e torcer para ninguem aparecer.
+
+Digite 2 para: Fazer uma mala com seu martelo, alguns item de sua forja e um pouco de comida.
+
+1 - Game over
+
+Tentando não pensar no pior, você se tranca em casa e se esconde em seu quarto, desesperado, tentando
+entender o que esta acontecendo com todo mundo.
+
+Algumas horas depois o fogo do vilarejo que aparentava estar longe veio se espalhando com o vento,
+chegando até sua casa, ao tentar conter o fogo com o pouco de água que encontra em casa, você atrai
+a atenção de pessoas com aquela aparencia estranha, que estavam devorando outras pessoas. Elas
+invadem sua casa e sem falarem nada, apenas com gemidos, aparentemente de dor, te cercam e acabam
+te devorando vivo..
+
+2 - PARTE 03
+
+Enquanto esta arrumando sua mala para sair de casa em busca de um lugar seguro, você ouve de longe
+um grito de socorro, e você reconhece aquela voz. É a Rainha Tais!
+
+Enquanto termina de arrumar suas coisas com pressa, os gritos de socorro vão se intensificando,
+você sabe que a situação é crítica, a Rainha está em apuros. Você finalmente pega suas coisa 
+e sai as pressas. No caminho é atacado por essas estranhas pessoas que aparentam estar mortas, 
+mas seu martelo nunca te abandona. Chegando no saguão do castelo da Rainha, ensaguentado, você
+a vê correndo assustada, fugindo de uma figura sombria que está tentando pegá-la, ao se aproximar
+um pouco mais da situção ja com seu martelo em mãos, pronto para a luta, você descobre que a figura
+sombria é ninguem menos que o velho alquimista Izoton, ele tem a mesma aparencia das pessoas que
+estão atacando todos no vilarejo, mas também possui uma risada maligna, como se estivesse gostando
+da situação.
+
+Enquanto tentava fugir a Rainha conseguiu cegar momentaneamente o terrivel Izoton com uma tocha que 
+estava na parede do saguão do castelo, mas ao fazer isso, acabou caindo e se machucando...
+O que você fará a seguir?
+
+Digite 1 para: Para atacar o Terrível Izoton com seu martelo e matá-lo.
+
+Digite 2 para: Para ajudar a Rainha a se levantar e fugir enquanto Izoton está incapacitado.
+
+1 - Game over.
+
+Ao tentar tirar proveito da situação e atacar Izoton enquanto ele estava cego, você entrega sua ação
+fazendo barulho com seus passos pesados, Izoton percebe a aproximação e num ato de desespero se joga
+na sua direção com suas garras de monstro, cravando-as em seu peito e te matando antes mesmo que você
+conseguisse atingir o golpe com seu martelo.
+
+2 - FINAL
+
+Enquanto Izoton tentava recuperar sua visão, você rapidamente ajuda a Rainha a se lavantar e juntos
+fogem correndo, sem olhar para trás.
+
+Após alguns dias caminhando pela floresta, vocês encontram um acampamento de sobreviventes do vilarejo
+que reconhecem você e a Rainha e oferecem abrigo, água e pão para ajudar.
+
+O plano agora é recuperar todas as energias, e com suas habilidadesc forjar armas e armaduras para que os 
+sobreviventes se unam em um ataque surpresa para recuperar o reino, destruir o terrível alquimista Izoton e
+descobrir porque essas coisas terriveis aconteceram no vilarejo.
+
+Mas isso é história para o próximo capítulo.
+
+Parabéns por ter terminado RESILLIUM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
