@@ -23,10 +23,10 @@ function rodaOpcao(valorDaVar){
                 <br></br>
                 <p>
                     Ao olhar em volta, percebe que todo vilarejo de Resillium está um verdadeiro caos, casas pegando fogo,
-                    pessoas correndo desesperadas, e pessoas com uma aparencia estranha, cheias de sangue em suas bocas, 
+                    pessoas correndo desesperadas, e pessoas com uma aparência estranha, cheias de sangue em suas bocas, 
                     algumas até sem membros do corpo e mesmo assim andando por todo lado, um grupo delas estava agachado no
                     chão, em volta de um corpo caído e aparentemente comendo aquele corpo, abrindo sua barriga, retirando
-                    as visceras e colocando diretamente na boca.
+                    as vísceras e colocando diretamente na boca.
                 </p>
                 <br></br>
                 <br></br>
@@ -51,10 +51,10 @@ function rodaOpcao(valorDaVar){
                 <br></br>
                 <br></br>
                 <p>
-                Ao tentar empurrar o senhor para trás, você se preocupa em tentar não machucá-lo, abaixando sua guarda
-                dando a oportunidade para ele agarrar seu braço e mordê-lo, arrancando um pedaço sigficante de seu membro.
-                Desesperado você perde o controle e o senhor acaba te derrubando no chão, arrancando mais pedaços de seu
-                corpo com a boca, fazendo com que você morra.
+                    Ao tentar empurrar o senhor para trás, você se preocupa em tentar não machucá-lo, abaixando sua guarda
+                    dando a oportunidade para ele agarrar seu braço e mordê-lo, arrancando um pedaço significante de seu membro.
+                    Desesperado você perde o controle e o senhor acaba te derrubando no chão, arrancando mais pedaços de seu
+                    corpo com a boca, fazendo com que você morra.
                 </p>
                 <br></br>
                 <br></br>

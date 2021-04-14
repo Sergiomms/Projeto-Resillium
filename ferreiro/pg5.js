@@ -17,7 +17,7 @@ function rodaOpcao(valorDaVar){
                 </div>   
 
                 <p>
-                    Enquanto Izoton tentava recuperar sua visão, você rapidamente ajuda a Rainha a se lavantar e juntos
+                    Enquanto Izoton tentava recuperar sua visão, você rapidamente ajuda a Rainha a se levantar e juntos
                     fogem correndo, sem olhar para trás.
                 </p>
                 <br></br>
@@ -29,9 +29,9 @@ function rodaOpcao(valorDaVar){
                 <br></br>
                 <br></br>
                 <p>
-                    O plano agora é recuperar todas as energias, e com suas habilidadesc forjar armas e armaduras para que os 
+                    O plano agora é recuperar todas as energias, e com suas habilidades forjar armas e armaduras para que os 
                     sobreviventes se unam em um ataque surpresa para recuperar o reino, destruir o terrível alquimista Izoton e
-                    descobrir porque essas coisas terriveis aconteceram no vilarejo.
+                    descobrir porque essas coisas terríveis aconteceram no vilarejo.
                 </p>
                 <br></br>
                 <br></br>
