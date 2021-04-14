@@ -53,7 +53,7 @@ II. cap 2 - A guerra.
 
 você é escolhido para ser o capitão do exército de arqueiros de Resillium, você ganhará
 novas armaduras impenetráveis, porém você se sente estranho , pois nunca havia 
-abatido zumbies antes, o você faz? :
+abatido zumbies antes, o você faz?
 
 a) aceita, pois treinou a vida toda para isso.
 b) não aceita, pois não quer enfrentar zumbie.
@@ -82,7 +82,7 @@ b) você não sabe o que fazer, são muitos zumbies e muitos mortos.
 -reação:
 
 a) seus companheiros de batalha lhe ouvem e escolhem morrer ajudando.
-b) você e seu exército se rendem e são devorador por zumbies - game over
+b) você e seu exército se rendem e são devorados por zumbies - game over
 
 
 ======================================================================================
@@ -133,15 +133,15 @@ conseguirem capturar o alquimista Izoton e intercaptam seus planos e sócios, vo
 fazer algo com eles entre as escolhas estão.
 
 a)  aprisionar cada um nas profundezas dos poços de Resillium.
-b)  morte será punida com morte.
+b)  morte será punida com morte.----------------------------------
 c)  o mundo nunca mudará se não houver o perdão.
 
 - reação:
 
 a) é uma boa escolha, Resillium está aos poucos se reeguendo e voltando aos seus mais lindos dias,
 mas será se foi o suficinte para encerrar com a guerra?
-b) é uma escolha confusa, apesar de que agora Resillium nunca mais terá uma ameaça assim,
-mas será se a morte era uma boa saída?
+b) é uma escolha confusa, apesar de que agora Resillium nunca mais terá uma ameaça assim,----------------
+mas será se a morte era uma boa saída?-------------------------------------------------------------------
 c) nunca confie em um genocida, só haverá mortes. game-over
 
 =========================================================================================

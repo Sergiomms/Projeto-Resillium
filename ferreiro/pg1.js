@@ -14,7 +14,7 @@ document.write(//colocar `
         <div class="descricao-do-mundo">
 
             <p> 
-                Numa hera onde a vida era pacifica, calma e tranquila, havia um
+                Numa era onde a vida era pacifica, calma e tranquila, havia um
                 vilarejo conhecido por todos como Resillium, lá os moradores eram alegres e queriam espalhar a 
                 cultura dos bons modos e trabalhos em equipe para todos, graças ao governo de sua Rainha Taís Softus
                 que com toda calma do mundo ensinava ao seu povo os místicos ensinamentos de seus antepassados, os
@@ -22,7 +22,7 @@ document.write(//colocar `
             </p>
             <br></br>
             <p>
-                Tudo ia bem e tranquilo, como sempre, porem o povo de Resllium não fazia ideia que sua paz
+                Tudo ia bem e tranquilo, como sempre, porém o povo de Resllium não fazia ideia que sua paz
                 acabaria em breve. O temivel alquimista, conhecido por todos como velho Izoton estava preparando algo
                 em sua masmorra que mudaria a vida do povo de Resillium para sempre.                    
             </p>
