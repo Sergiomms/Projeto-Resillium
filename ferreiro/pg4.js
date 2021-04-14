@@ -26,7 +26,7 @@ function rodaOpcao(valorDaVar){
                     Enquanto termina de arrumar suas coisas com pressa, os gritos de socorro vão se intensificando,
                     você sabe que a situação é crítica, a Rainha está em apuros. Você finalmente pega suas coisa 
                     e sai as pressas. No caminho é atacado por essas estranhas pessoas que aparentam estar mortas, 
-                    mas seu martelo nunca te abandona. Chegando no saguão do castelo da Rainha, ensaguentado, você
+                    mas seu martelo nunca te abandona e você destroi todas. Chegando no saguão do castelo da Rainha, ensaguentado, você
                     a vê correndo assustada, fugindo de uma figura sombria que está tentando pegá-la, ao se aproximar
                     um pouco mais da situção ja com seu martelo em mãos, pronto para a luta, você descobre que a figura
                     sombria é ninguem menos que o velho alquimista Izoton, ele tem a mesma aparencia das pessoas que

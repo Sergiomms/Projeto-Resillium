@@ -1,0 +1,162 @@
+Enredo ResilliuM .
+
+I - Introdução.
+
+o ano é 1337 , o mundo está vivendo uma grande guerra e cabe a você salvar Resillium 
+de um ataque zumbie.  
+
+(escolha seu personagem);
+
+=====================================================================================
+
+I.1 - Você escolheu o arqueiro.
+
+(escolha seu nome);
+
+`${nome}` você é o melhor arqueiro que Resillium já teve, além de anos de treinamento 
+arduo você também possui um arco forjado pelo ferreiro com os restos da armadura de 
+seu pai que, foi usada em outra grande guerra e flechas tão ponteaguda que perfura
+elmos e crânios facilmente.
+
+=====================================================================================
+
+II.  cap 1 - Eles Chegaram. 
+
+Por muitos anos nossas terras permaneceram em paz, as pessoas não precisavam se 
+preocupar com guerras ou desordens naturais. Infelizmente uma nova espécie de seres
+estava sendo criada. 
+Alquimistas liderados por Izoton, usaram todo o conhecimento que tinham e criaram um 
+exército ZUMBIES para que pudessem dominar Resillium.
+
+-ação:
+
+Você estava em mais um dia e treinamento e percebe um movimento estanho na
+floresta ao seu redor,  o que você faz?
+
+a) pega seu arco e vai saber o que está acontecendo.
+b) pega seu arco e flecha e se prapara para usa-los.
+c) pega o rumo de casa, você está com medo.
+
+
+-reação:
+
+a) você esqueceu suas flechas e foi atacado pelos zumbies.
+b) você enxerga os zumbies e logo atira contra eles, os matando.
+c) você deveria defender Resillium - game over.
+
+=======================================================================================
+
+
+II. cap 2 - A guerra.
+
+- ação:
+
+você é escolhido para ser o capitão do exército de arqueiros de Resillium, você ganhará
+novas armaduras impenetráveis, porém você se sente estranho , pois nunca havia 
+abatido zumbies antes, o você faz? :
+
+a) aceita, pois treinou a vida toda para isso.
+b) não aceita, pois não quer enfrentar zumbie.
+
+- reação :
+
+a) você ganhas novas armaduras e está pronto para a guerra.
+b) Você acaba sendo atacado naquela noite e suas armaduras 
+não eram fortes o suficiente para defende-lo, você foi mordido - game over.
+
+
+======================================================================================
+
+II. cap 3 - Invasão Zumbie.
+
+- ação:
+
+você precisa tomar uma decisão muito difícil. Os zumbies parecem estar dominando Resillium
+ou você se rende ou levanta a esperança de seu exército e lhes dá motivos para continuar, Os
+faz lembrar de como eram os vales e como as crianças eram felizes por morarem neste lugar. 
+você :
+
+a) você como um líder começa a falar sobre ter a paz de volta e no futuro de Resillium
+b) você não sabe o que fazer, são muitos zumbies e muitos mortos. 
+
+-reação:
+
+a) seus companheiros de batalha lhe ouvem e escolhem morrer ajudando.
+b) você e seu exército se rendem e são devorador por zumbies - game over
+
+
+======================================================================================
+
+II. cap 4 - A Esperança Surge.
+
+- ação:
+
+Você entra em contato com o espirito de seu pai que lhe mostra técnicas ancestrais de 
+arco e flecha, em apenas 2 segundos você teve contato com líderes arqueiros e lhe foi
+repassado os segredos de flechas infinitas e sobre seu espirito antepassado 'Softus', 
+o que você faz ?
+
+a) segue seu instinto e acredita que ainda é possível vencer usando estas técnicas.
+b) Não entende o que aconteceu, achou que foi um delírio. 
+ 
+- reação:
+
+a) você ganha uma vitalidade maior, mas tenha cuidado, você ainda não controla essa força.
+b) após a sua visão , você perdeu a atenção e foi devorado por zumbies.
+=======================================================================================
+
+II. cap 5 - O Retorno de Softus , o Arqueiro Sécular. 
+
+- ação: 
+
+Após você sentir a presença de seu pai, você se sente muito forte e entende que o espirito
+do Arqueiro Sécular - Softus se funde ao seu. Agora você está muito poderoso. Porém isso exige
+cautela de você, pois ainda não conhecia seus atuais poderes. 
+
+a) você se sente um Deus e sem pensar deixa que seus atuais poderem te dominem. 
+b) você respeita o tempo da força e a usa de forma madura.
+
+- reação:
+
+a) game over : você acabou matando seus companheiros e perderam a guerra.
+b) você está invencível e consegue matar seus inimigos, agora se juntará aos outros
+guerreiros.
+
+===========================================================================================
+
+II. cap 6 - Ressilium.
+
+- ação:
+
+Após 3 anos em uma guerra que parecia nao ter fim, os maiores guerreiros de Resillium
+conseguirem capturar o alquimista Izoton e intercaptam seus planos e sócios, vocês tem a chance de 
+fazer algo com eles entre as escolhas estão.
+
+a)  aprisionar cada um nas profundezas dos poços de Resillium.
+b)  morte será punida com morte.
+c)  o mundo nunca mudará se não houver o perdão.
+
+- reação:
+
+a) é uma boa escolha, Resillium está aos poucos se reeguendo e voltando aos seus mais lindos dias,
+mas será se foi o suficinte para encerrar com a guerra?
+b) é uma escolha confusa, apesar de que agora Resillium nunca mais terá uma ameaça assim,
+mas será se a morte era uma boa saída?
+c) nunca confie em um genocida, só haverá mortes. game-over
+
+=========================================================================================
+
+III. cap 7 - FIM.
+
+
+Obrigado por ter tido a coragem e a sabedoria para ajudar Resillium em seu pior momento
+você é um guerreiro arqueiro atípico, sua força e coragem fez com que esta guerra fosse
+vencida por nós. Viva você e ao espirito de Softus que lhe mostrou a melhor saída.
+
+viva Resillium!
+
+
+
+Resillium é um projeto de final de módulo da turma 5 - Resilia.
+
+alunos: Luany, Hiensen, Sérgio e Daniel.

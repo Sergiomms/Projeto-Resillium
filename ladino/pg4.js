@@ -22,12 +22,12 @@ function rodaOpcao(valorDaVar){
                     Todos estavam de olhos brancos e fazendo barulhos de dor.
                     Você consegue sair daquela vila o mais rápido possível, deixando tudo para trás.
                     Mesmo se afastando da vila, você escuta vários gritos, e ao olhar para trás, consegue avistar o mesmo senhor em quem você enfiou a faca, mordendo o braço de um homem que aparentava ter uns 20 anos.
-                    O que será que está acontecendo?
+                    O que será que está acontecendo...?
                 </p>
                 <br></br>
                 <br></br>
                 <p>
-                    Mas isso é história para o próximo capítulo. 
+                    ...isso é história para o próximo capítulo. 
                 </p>
                 <br></br>
                 <br></br>

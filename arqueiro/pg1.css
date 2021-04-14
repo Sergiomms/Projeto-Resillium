@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'MedievalSharp', cursive;
+    background-color: black;
+    background-image: url(../background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+.topo-container{
+
+    text-align: center;
+    margin-left: 27%;
+    margin-right: 27%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px black solid; */
+  
+}
+
+.titulo, .subtitulo{
+
+    margin-top: 5%;
+}
+
+.titulo1{
+
+    font-size: 3em;
+    color: black;
+    margin-bottom: 10%;
+
+}
+
+.containerTextos{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.subtitulo1{
+
+    font-size: 2em;
+    color: black;
+    justify-content: center;
+
+}
+
+p{
+    font-weight: bolder;
+}
+
+.botao-continuar{
+
+    margin: 05%;
+    color: black;
+    font-weight: bolder;
+    text-decoration: none; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.botao-continuar:hover {
+
+    color: blanchedalmond;
+    font-weight: bolder;
+}
+
+.botao-voltar{
+
+    margin: 05%;
+    color: black;
+    font-weight: bolder;
+    text-decoration: none; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.botao-voltar:hover {
+
+    color: blanchedalmond;
+    font-weight: bolder;
+}
+
+.gameOver{
+
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    margin-top: 05em;
+}
+

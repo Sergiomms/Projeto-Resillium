@@ -29,7 +29,7 @@ document.write(//colocar `
             <br></br>
             <p>
                 Ao acordar pela manhã e olhar pela janela ${nome} viu que o céu estava vermelho e pequenas nuvens de fumaça
-                estavam saindo da colinas, milhares delas, indo em direção ao céu.
+                estavam saindo das colinas, milhares delas, indo em direção ao céu.
             </p>
             <br></br>
             <p>
